@@ -1,0 +1,7 @@
+{
+  "name": "Green Path - Electric Mobility Navigator",
+  "description": "An eco-friendly navigation app for electric motorcycles that optimizes routes based on energy consumption, topography, weather, and battery state.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
